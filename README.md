@@ -1,1 +1,1 @@
-# scCausalVI-scratch-implementation
+# scCausalVI-implementation
